@@ -29,7 +29,7 @@ This document is part of the Ebola virus Nanopore sequencing protocol package:
 #### Related documents:
 
 Ebola primer scheme:
-: [https://github.com/artic-network/primer-schemes/tree/master/ZaireEbola/V2](https://github.com/artic-network/primer-schemes/tree/master/ZaireEbola/V2)
+: [https://github.com/artic-network/primer-schemes/tree/master/ZaireEbola/V2](https://github.com/artic-network/primer-schemes/tree/master/ZaireEbola/V3)
 
 Ebola virus Nanopore sequencing protocol:
 : [http://artic.network/ebov/ebov-seq-sop.html](http://artic.network/ebov/ebov-seq-sop.html)
